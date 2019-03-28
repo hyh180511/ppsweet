@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_article/ppsweet_article.iml" filepath="$PROJECT_DIR$/ppsweet_article/ppsweet_article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_base/ppsweet_base.iml" filepath="$PROJECT_DIR$/ppsweet_base/ppsweet_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_common/ppsweet_common.iml" filepath="$PROJECT_DIR$/ppsweet_common/ppsweet_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_config/ppsweet_config.iml" filepath="$PROJECT_DIR$/ppsweet_config/ppsweet_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_eureka/ppsweet_eureka.iml" filepath="$PROJECT_DIR$/ppsweet_eureka/ppsweet_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_friend/ppsweet_friend.iml" filepath="$PROJECT_DIR$/ppsweet_friend/ppsweet_friend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_gathering/ppsweet_gathering.iml" filepath="$PROJECT_DIR$/ppsweet_gathering/ppsweet_gathering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_manager/ppsweet_manager.iml" filepath="$PROJECT_DIR$/ppsweet_manager/ppsweet_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_parent.iml" filepath="$PROJECT_DIR$/ppsweet_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_qa/ppsweet_qa.iml" filepath="$PROJECT_DIR$/ppsweet_qa/ppsweet_qa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_recruit/ppsweet_recruit.iml" filepath="$PROJECT_DIR$/ppsweet_recruit/ppsweet_recruit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_search/ppsweet_search.iml" filepath="$PROJECT_DIR$/ppsweet_search/ppsweet_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_sms/ppsweet_sms.iml" filepath="$PROJECT_DIR$/ppsweet_sms/ppsweet_sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_spit/ppsweet_spit.iml" filepath="$PROJECT_DIR$/ppsweet_spit/ppsweet_spit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_user/ppsweet_user.iml" filepath="$PROJECT_DIR$/ppsweet_user/ppsweet_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppsweet_web/ppsweet_web.iml" filepath="$PROJECT_DIR$/ppsweet_web/ppsweet_web.iml" />
+    </modules>
+  </component>
+</project>
