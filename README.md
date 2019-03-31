@@ -35,10 +35,9 @@ Druid |数据库连接池 |https://github.com/alibaba/druid
 ![ppsweet](https://github.com/hyh180511/ppsweet/blob/master/document/resources/ppsweey_system_arch2.png "架构图")
 
 ## 开发环境
-技术 | 说明 | 官网
----------| ---------- | ---------
 工具 |	版本号	|下载
-JDK |	1.8|	https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+---------| ---------- | ---------
+JDK |	1.8 |	https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 Mysql |	5.7 |	https://www.mysql.com/
 Redis |	3.2 |	https://redis.io/download
 Elasticsearch |	6.2.2 |	https://www.elastic.co/downloads
