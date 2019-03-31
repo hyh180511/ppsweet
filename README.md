@@ -31,8 +31,8 @@ Druid |数据库连接池 |https://github.com/alibaba/druid
 
 ## 系统结构图
 系统架构图<br>
-![ppsweet](https://github.com/hyh180511/ppsweet/document/resource/ppsweey_system_arch1 "架构图")<br>
-![ppsweet](https://github.com/hyh180511/ppsweet/document/resource/ppsweey_system_arch2 "架构图")
+![ppsweet](https://github.com/hyh180511/ppsweet/blob/master/document/resources/ppsweey_system_arch1.png "架构图")<br>
+![ppsweet](https://github.com/hyh180511/ppsweet/blob/master/document/resources/ppsweey_system_arch2.png "架构图")
 
 ## 开发环境
 技术 | 说明 | 官网
